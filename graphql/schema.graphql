@@ -1,1 +1,5 @@
+# Como se fosse protipar a função,query no caso
 
+type Query {
+  productList (topN: Int): [ProductView]
+}

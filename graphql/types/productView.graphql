@@ -1,0 +1,4 @@
+type ProductView {
+  slug: String
+  coutn: Int
+}
